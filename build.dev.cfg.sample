@@ -15,7 +15,7 @@
 #----------------------------------------------
 # halt compiler after error, warning and notes
 #----------------------------------------------
--Sewn
+-Sew
 
 #----------------------------------------------
 # Generate debugging information for debugging with gdb.
